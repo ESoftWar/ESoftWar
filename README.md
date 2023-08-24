@@ -1,11 +1,10 @@
-- 👋 Hi, I'm Eray MENEKŞE so @ESoftWar.
-- 👀 I work on end-user solutions such as automation systems, database management, windows form applications, entity framework.
-- 🌱 I have been interested in software since my high school years. In this software world that I started with C#; I am progressing by seconds as someone who is open to learning, self-renewing, solution-oriented, successful in human relations, self-confident, disciplined and has goals. 
-I enjoy working on solution-oriented software such as Commercial Automations, Cafe Systems, Hospital Systems with SQL - T / SQL. 
-I am a computer programmer who has mastered the .Net Framework culture, produces projects on .NET platforms such as ADO.NET and ASP.NET; I am a computer programmer who does not get bored while working on algorithms and is always ready to develop software and produce solutions. 
-I am sure that I will gain a place in the sector thanks to what I have done and what I plan to do. I believe that I will quickly gain momentum in most areas because I trust my problem solving skills. 
-- 💞️ I want to collaborate with fellow software developers and improve myself. These shares are also available on this platform.
-- 📫 esmnnks@hotmail.com
+ # Hi, I'm Eray MENEKŞE so @ESoftWar.
+
+ ## About me
+ I was born in `2001` in Bursa. I still live in `Bursa`. During the years I studied at `Tophane Vocational and Technical Anatolian High School`, I started to be interested in software and decided to  progress in the field of `Information Technologies`. Then I studied `Database Programming`. I acquired `C#` and `SQL` programming language skills. Then I studied `Computer Programming` at `Istanbul  University - Cerrahpaşa.` I continued to progress by adding new ones to my high school skills. Currently, by adopting `SOLID` principles, I am working on `software solutions` such as `Commercial  Automations`, `Hospital Systems`, `Barcode Market Systems` through `C#` programming language in the field of `.Net Technologies`. I am proficient in `MSSQL` and `advanced T-SQL`, `Oracle SQL` and `advanced PL/SQL` languages, technologies and databases. Thanks to my technical skills, different `work experiences` and `teamwork`, I believe that I will work `solution-oriented` and finalize the given task `in the best way`, benefit `myself` and `my colleagues` and make the best use of the time allocated to us. I want to collaborate with fellow `software developers` and `improve myself`. These shares are also available on this platform.
+
+## Contact
+`esmnnks@hotmail.com `
 
 <!---
 ESoftWar/ESoftWar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
