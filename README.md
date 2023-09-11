@@ -1,18 +1,27 @@
- # Hi, I'm Eray MENEKŞE so @ESoftWar.
+ 👋 Hi, I'm Eray. ↓
 
- ## About me
- I was born in `2001` in Bursa. I still live in `Bursa`. During the years I studied at `Tophane Vocational and Technical Anatolian High School`, I started to be interested in software and decided to  
- progress in the field of `Information Technologies`. Then I studied `Database Programming`. I acquired `C#` and `SQL` programming language skills. Then I studied `Computer Programming` at `Istanbul  
- University - Cerrahpaşa.` I continued to progress by adding new ones to my high school skills. Currently, by adopting `SOLID` principles, I am working on `software solutions` such as `Commercial  
- Automations`, `Hospital Systems`, `Barcode Market Systems` through `C#` programming language in the field of `.Net Technologies`. I am proficient in `MSSQL` and `advanced T-SQL`, `Oracle SQL` and 
- `advanced PL/SQL` languages, technologies and databases. Thanks to my technical skills, different `work experiences` and `teamwork`, I believe that I will work `solution-oriented` and finalize the given 
- task `in the best way`, benefit `myself` and `my colleagues` and make the best use of the time allocated to us. I want to collaborate with fellow `software developers` and `improve myself`. These shares 
- are also available on this platform.
+I have been with this world since the first day I started school. Of course, at first, this association was just playing games.
 
-## Contact
-`esmnnks@hotmail.com `
+When I was in high school, my only thought was to go deep into computers. I had to learn software and fulfill my dreams.
 
-<!---
-ESoftWar/ESoftWar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I failed classes, I cried with anger, but I wrote a lot of code and finally I was able to project on the screen what I had imagined. "Hello, my world." I didn't give up!
+
+It's hard for me to jump out of this world now.
+
+🧡 Things I'm passionate about 💙
+
+🤔 Problem - Solving : I feel like a detective when I solve problems. Problems can come from anywhere! And I am always ready. I can break the problem into multiple parts, analyze them one by one, put them together and come to a conclusion.
+
+❓ Project Deficiencies ➛ I'm : I think a project down to the finest detail and create it in accordance with the sector and new technologies. Wherever there is a gap, I am there!
+
+🤝 Solidarity : There is no age or limit to learning. This software world should be outside the world we live in. We should help each other more and share knowledge. We should be happy. 😊
+
+🛠 Skills and Technologies That I Have Encountered and Am Dealing With Well 💻
+
+📅 SQL • Oracle PL/SQL • MSSQL T-SQL • Big Data
+👨‍💻 C# • .NET • ADO.NET • ASP.NET • MVC 
+📃 HTML • CSS 
+📶 Git • GitHub • Docker
+👮‍♂️ SOLID • OOP • Agile Methods • Scrum • DevOps 
+
+Feel free to connect and let's talk!
