@@ -19,9 +19,13 @@ It's hard for me to jump out of this world now.
 🛠 Skills and Technologies That I Have Encountered and Am Dealing With Well 💻
 
 📅 SQL • Oracle PL/SQL • MSSQL T-SQL • Big Data
+
 👨‍💻 C# • .NET • ADO.NET • ASP.NET • MVC 
+
 📃 HTML • CSS 
+
 📶 Git • GitHub • Docker
+
 👮‍♂️ SOLID • OOP • Agile Methods • Scrum • DevOps 
 
 Feel free to connect and let's talk!
